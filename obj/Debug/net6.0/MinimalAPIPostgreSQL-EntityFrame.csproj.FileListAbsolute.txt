@@ -1,0 +1,108 @@
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\appsettings.Development.json
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\appsettings.json
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.exe
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.deps.json
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.runtimeconfig.json
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.pdb
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Humanizer.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Npgsql.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\System.CodeDom.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\System.Text.Json.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.csproj.AssemblyReference.cache
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.GeneratedMSBuildEditorConfig.editorconfig
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.AssemblyInfoInputs.cache
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.AssemblyInfo.cs
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.csproj.CoreCompileInputs.cache
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.MvcApplicationPartsAssemblyInfo.cs
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.MvcApplicationPartsAssemblyInfo.cache
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets\msbuild.MinimalAPIPostgreSQL-EntityFrame.Microsoft.AspNetCore.StaticWebAssets.props
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets\msbuild.build.MinimalAPIPostgreSQL-EntityFrame.props
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MinimalAPIPostgreSQL-EntityFrame.props
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MinimalAPIPostgreSQL-EntityFrame.props
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets.pack.json
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets.build.json
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets.development.json
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\scopedcss\bundle\MinimalAPIPostgreSQL-EntityFrame.styles.css
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.csproj.CopyComplete
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\refint\MinimalAPIPostgreSQL-EntityFrame.dll
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.pdb
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.genruntimeconfig.cache
+E:\visualstudio\repos\MinimalAPIPostgreSQL-EntityFrame\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\ref\MinimalAPIPostgreSQL-EntityFrame.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\appsettings.Development.json
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\appsettings.json
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.exe
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.deps.json
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.runtimeconfig.json
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.pdb
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Humanizer.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Npgsql.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\System.CodeDom.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\System.Text.Json.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.csproj.AssemblyReference.cache
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.AssemblyInfoInputs.cache
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.AssemblyInfo.cs
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.csproj.CoreCompileInputs.cache
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.MvcApplicationPartsAssemblyInfo.cs
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.MvcApplicationPartsAssemblyInfo.cache
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets\msbuild.MinimalAPIPostgreSQL-EntityFrame.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets\msbuild.build.MinimalAPIPostgreSQL-EntityFrame.props
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MinimalAPIPostgreSQL-EntityFrame.props
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MinimalAPIPostgreSQL-EntityFrame.props
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets.build.json
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\staticwebassets.development.json
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\scopedcss\bundle\MinimalAPIPostgreSQL-EntityFrame.styles.css
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.csproj.CopyComplete
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\refint\MinimalAPIPostgreSQL-EntityFrame.dll
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.pdb
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\MinimalAPIPostgreSQL-EntityFrame.genruntimeconfig.cache
+E:\Mis Documentos\Documentos\Proyectos\CsharpProjects\visualstudio\MinimalAPIPostgreSQL-EntityFrame\obj\Debug\net6.0\ref\MinimalAPIPostgreSQL-EntityFrame.dll

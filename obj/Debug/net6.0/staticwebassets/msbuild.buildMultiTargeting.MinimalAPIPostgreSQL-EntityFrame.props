@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MinimalAPIPostgreSQL-EntityFrame.props" />
+</Project>
